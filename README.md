@@ -3,6 +3,18 @@
 
 
 ```sh
+opkg update
+
+opkg remove dnsmasq
+
+mv /etc/config/dhcp /etc/config/dhcp.bak
+
+opkg install dnsmasq-full
+opkg install ipset iptables-mod-nat-extra
+
+echo 'conf-dir=/etc/dnsmasq.d' >> /etc/dnsmasq.conf
+
+
 curl -OL https://github.com/openwrt-cc/dnsmasq/raw/master/gfw.txt
 
 echo -n "" > /etc/dnsmasq.d/gfw.conf
