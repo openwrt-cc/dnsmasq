@@ -18,5 +18,5 @@ githubassets.com
 github.io
 v2ray.com
 bit.ly
-www.reddit.com
+reddit.com
 redd.it
