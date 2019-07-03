@@ -7,6 +7,7 @@ googleapis.com
 1e100.net
 app-measurement.com
 xn--ngstr-lra8j.com
+googleapis.cn
 youtube.com
 ytimg.com
 ggpht.com
