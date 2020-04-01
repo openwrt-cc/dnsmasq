@@ -1,3 +1,10 @@
+
+iterm2.com
+github.ibm.com
+macatibm.podc.sl.edst.ibm.com
+gvt0.com
+gvt1.com
+gvt3.com
 google.cn
 google.com
 gstatic.com
